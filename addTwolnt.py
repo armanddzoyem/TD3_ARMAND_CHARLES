@@ -20,3 +20,6 @@ if __name__ == "__main__" :
 
          else:
             print("les arguments sont inssuffissants")
+            a = int(input())
+            b = int(input())
+            print(add(a,b))
